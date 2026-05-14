@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-14T18:31:24.021779+00:00",
+  "data_referencia": "2026-05-14",
+  "airport_icao": "SBPP",
+  "airport_name": "SBPP",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPP",
+    "sg_aerodromo_iata": "PMG",
+    "descricao": "PONTA PORÃ - PONTA PORÃ - MS - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}
