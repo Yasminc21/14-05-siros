@@ -1,0 +1,21 @@
+Lista de aeroportos utilizados:
+SBRB: Rio Branco, AC (Aeroporto Internacional Plácido de Castro)
+SBMO: Maceió, AL (Aeroporto Internacional Zumbi dos Palmares)
+SBMQ: Macapá, AP (Aeroporto Internacional de Macapá - Alberto Alcolumbre)
+SBEG: Manaus, AM (Aeroporto Internacional Eduardo Gomes)
+SBIL: Ilhéus, BA (Aeroporto de Ilhéus - Jorge Amado)
+SBPS: Porto Seguro, BA (Aeroporto de Porto Seguro)
+SBFE: Feira de Santana, BA (Aeroporto Governador João Durval Carneiro)
+SBFZ: Fortaleza, CE (Aeroporto Internacional Pinto Martins)
+SBJU: Juazeiro do Norte, CE (Aeroporto de Juazeiro do Norte - Orlando Bezerra de Menezes)
+SBBR: Brasília, DF (Aeroporto Internacional Presidente Juscelino Kubitschek)
+SBVT: Vitória, ES (Aeroporto de Vitória - Eurico de Aguiar Salles)
+SBGO: Goiânia, GO (Aeroporto de Goiânia - Santa Genoveva)
+SWNR: Rio Verde, GO
+SBSL: São Luís, MA (Aeroporto Internacional Cunha Machado)
+SBIM: Imperatriz, MA
+SBCY: Cuiabá, MT (Aeroporto Internacional Marechal Rondon)
+SBCG: Campo Grande, MS (Aeroporto Internacional de Campo Grande)
+SBPP: Ponta Porã, MS (Aeroporto Internacional de Ponta Porã)
+SBCF: Belo Horizonte/Confins, MG (Aeroporto Internacional de Confins - Tancredo Neves)
+SBBH: Belo Horizonte, MG (Aeroporto da Pampulha - Carlos Drummond de Andrade) 
